@@ -1,0 +1,4 @@
+# ignore all files with extension sqlite3 & md & file LICENSE.md
+dummy/*.sqlite3
+LICENSE.md
+new_folder/*.rb
